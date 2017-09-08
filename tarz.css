@@ -1,0 +1,47 @@
+*{
+}
+html{
+background: url(arkaplan.jpg);
+overflow:scroll;
+}
+.header {
+font-family: 'Berkshire Swash', cursive;
+color: #B22222;
+font-size: 100px;
+text-align: center;
+}
+.slogan{
+font-family: 'Architects Daughter', cursive;
+font-size: 40px;
+Color: #FF8C00;
+
+}
+.logo img{
+float: right;
+width: 75px;
+height: 75px;
+margin-right: 75px;
+}
+footer{
+margin-top: 175px;
+}
+li{
+BORDER: 2PX SOLID;
+border-color: #B22222;
+font-family: 'Rock Salt', cursive;
+font-weight: bold;
+margin-top: 75px;
+display: inline-block;
+width: 200px;
+height: 70px;
+text-align: center;
+padding-top:35px; 
+}
+li:hover{
+BACKGROUND-COLOR: #FFDAB9;
+}
+a {
+text-decoration:none;
+color: #B22222;
+}
+
